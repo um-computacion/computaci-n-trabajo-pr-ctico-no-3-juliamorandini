@@ -2,7 +2,8 @@
 # Trabajo Práctico 3: Desarrollo Guiado por Pruebas (TDD) - Manejo de Excepciones
 
 ## Identificación del Alumno
-**Nombre y Apellido:** Julia Morandini
+**Nombre y Apellido:** Julia Morandini Monteverdi
+
 
 **Nota:** Este trabajo práctico es de carácter individual. Cada alumno debe realizar su propia implementación y no se permite el trabajo en grupo.
 
